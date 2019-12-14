@@ -4,7 +4,7 @@ image = "img/result/feat_imp.png"
 date = "2019-12-12"
 title = "Feature Importances"
 categories = [ "Results"]
-weight = 13
+weight = 2
 +++
 
 Random Forest Feature Importances

@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-Visualization of sprint speed for the five outcomes.
+Visualization of sprint speed for the five batted ball outcomes.
 <!--more-->
 
 ![](/img/eda/Sprint_speed.png)

@@ -4,7 +4,7 @@ image = "img/result/xv_folds.png"
 date = "2019-12-12"
 title = "Prediction"
 categories = [ "Results"]
-weight = 12
+weight = 1
 +++
 
 Random Forest Prediction of Event Outcomes
