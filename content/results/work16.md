@@ -397,3 +397,13 @@ The following table displays correlation of each metric to itself in the followi
 </table>
 
 Below, we display a plot that shows how this metric might be used. 
+
+![](/img/result/Mike_Trout_2019_hold.png)
+
+This plot displays the distribution of 1,000 *rfxWOBA*'s created in our simulation for Mike Trout in 2019. The blue line displays his *rfxwOBA*, or the average of this distribution, green line displays his *bfxwOBA*, and the red line displays his actual *wOBA* from that season. A plot like this might help a general manager or fantasy baseball team owner assess how they might expect Mike Trout to perform in future seasons.
+
+The following plot shows the rolling values of *wOBA*, *rfxwOBA*, and *bsxwOBA* from 2017-2019.
+
+![](/img/result/Mike_Trout_rolling_hold.png)
+
+This plot displays how *wOBA*, *rfxwOBA*, and *bsxwOBA* follow similar trends over time.

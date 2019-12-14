@@ -4,7 +4,7 @@ image = "img/method/woba.png"
 date = "2019-12-12"
 title = "rfxwOBA"
 categories = [ "Methods"]
-weight = 10
+weight = 2
 +++
 
 <!--more-->
