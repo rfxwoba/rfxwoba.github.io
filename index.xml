@@ -27,7 +27,17 @@
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rfxwoba.github.io/eda/work5/</guid>
-      <description>&lt;p&gt;Visualization of launch angle &amp;amp; launch speed for the five outcomes.
+      <description>&lt;p&gt;Visualization of launch angle &amp;amp; launch speed for the five batted ball outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lauch angle &amp; launch speed</title>
+      <link>https://rfxwoba.github.io/portfolio/work5/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work5/</guid>
+      <description>&lt;p&gt;Visualization of launch angle &amp;amp; launch speed for the five batted ball outcomes.
 &lt;/p&gt;</description>
     </item>
     
@@ -38,6 +48,17 @@
       
       <guid>https://rfxwoba.github.io/method/work9/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>https://rfxwoba.github.io/portfolio/work12/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work12/</guid>
+      <description>&lt;p&gt;Random Forest Prediction of Event Outcomes&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,6 +100,17 @@
       <guid>https://rfxwoba.github.io/post/work1/</guid>
       <description>&lt;p&gt;Baseball is a bat-and-ball sport whose modern form originated in the United States in the nineteenth century. It is closely related to bat-and-ball sports of European origin, such as cricket.
 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Feature Importances</title>
+      <link>https://rfxwoba.github.io/portfolio/work13/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work13/</guid>
+      <description>&lt;p&gt;Random Forest Feature Importances&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -150,7 +182,17 @@
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rfxwoba.github.io/eda/work6/</guid>
-      <description>&lt;p&gt;Visualization of Spray angle &amp;amp; launch speed for the five outcomes.
+      <description>&lt;p&gt;Visualization of Spray angle &amp;amp; launch speed for the five batted ball outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spray angle &amp; launch speed</title>
+      <link>https://rfxwoba.github.io/portfolio/work6/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work6/</guid>
+      <description>&lt;p&gt;Visualization of Spray angle &amp;amp; launch speed for the five batted ball outcomes.
 &lt;/p&gt;</description>
     </item>
     
@@ -161,6 +203,37 @@
       
       <guid>https://rfxwoba.github.io/method/work10/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rfxwOBA</title>
+      <link>https://rfxwoba.github.io/portfolio/work10/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work10/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rfxwOBA Results</title>
+      <link>https://rfxwoba.github.io/portfolio/work16/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work16/</guid>
+      <description>&lt;p&gt;Using a model trained on all complete data&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rfxwOBA Results</title>
+      <link>https://rfxwoba.github.io/results/work16/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/results/work16/</guid>
+      <description>&lt;p&gt;Using a model trained on all complete data&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -199,7 +272,17 @@
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rfxwoba.github.io/eda/work7/</guid>
-      <description>&lt;p&gt;Visualization of sprint speed for the five outcomes.
+      <description>&lt;p&gt;Visualization of sprint speed for the five batted ball outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>sprint speed</title>
+      <link>https://rfxwoba.github.io/portfolio/work7/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work7/</guid>
+      <description>&lt;p&gt;Visualization of sprint speed for the five batted ball outcomes.
 &lt;/p&gt;</description>
     </item>
     
@@ -209,7 +292,17 @@
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rfxwoba.github.io/eda/work8/</guid>
-      <description>&lt;p&gt;Visualization of defense variable 9 for the five outcomes.
+      <description>&lt;p&gt;Visualization of right fielder defensive runs saved per 1,000 innings for the five batted ball outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Defense variable 9</title>
+      <link>https://rfxwoba.github.io/portfolio/work8/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work8/</guid>
+      <description>&lt;p&gt;Visualization of right fielder defensive runs saved per 1,000 innings for the five batted ball outcomes.
 &lt;/p&gt;</description>
     </item>
     
@@ -237,49 +330,20 @@
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rfxwoba.github.io/intro/work11/</guid>
-      <description>&lt;p&gt;377,050 samples of baseball batted-event data are collected from TODO.&lt;/p&gt;
+      <description>&lt;p&gt;554,149 samples of baseball event data are collected from &lt;a href=&#34;https://baseballsavant.mlb.com/statcast_search&#34;&gt;Baseball Savant&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Lauch angle &amp; launch speed</title>
-      <link>https://rfxwoba.github.io/portfolio/work5/</link>
+      <title>Data</title>
+      <link>https://rfxwoba.github.io/portfolio/work11/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rfxwoba.github.io/portfolio/work5/</guid>
-      <description>&lt;p&gt;Visualization of launch angle &amp;amp; launch speed for the five outcomes.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Spray angle &amp; launch speed</title>
-      <link>https://rfxwoba.github.io/portfolio/work6/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work6/</guid>
-      <description>&lt;p&gt;Visualization of Spray angle &amp;amp; launch speed for the five outcomes.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>sprint speed</title>
-      <link>https://rfxwoba.github.io/portfolio/work7/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work7/</guid>
-      <description>&lt;p&gt;Visualization of sprint speed for the five outcomes.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Defense variable 9</title>
-      <link>https://rfxwoba.github.io/portfolio/work8/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work8/</guid>
-      <description>&lt;p&gt;Visualization of defense variable 9 for the five outcomes.
-&lt;/p&gt;</description>
+      <guid>https://rfxwoba.github.io/portfolio/work11/</guid>
+      <description>&lt;p&gt;554,149 samples of baseball event data are collected from &lt;a href=&#34;https://baseballsavant.mlb.com/statcast_search&#34;&gt;Baseball Savant&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -289,48 +353,6 @@
       
       <guid>https://rfxwoba.github.io/portfolio/work9/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>rfxwOBA</title>
-      <link>https://rfxwoba.github.io/portfolio/work10/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work10/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://rfxwoba.github.io/portfolio/work11/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work11/</guid>
-      <description>&lt;p&gt;377,050 samples of baseball batted-event data are collected from TODO.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Prediction</title>
-      <link>https://rfxwoba.github.io/portfolio/work12/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work12/</guid>
-      <description>&lt;p&gt;Random Forest Prediction of Event Outcomes&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Feature Importances</title>
-      <link>https://rfxwoba.github.io/portfolio/work13/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rfxwoba.github.io/portfolio/work13/</guid>
-      <description>&lt;p&gt;Random Forest Feature Importances&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
