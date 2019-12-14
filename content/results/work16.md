@@ -1,6 +1,6 @@
-+++
+ +++
 draft = false
-image = "img/result/feat_imp.png"
+image = "img/result/Mike_Trout_2019_hold.png"
 date = "2019-12-12"
 title = "rfxwOBA Results"
 categories = [ "Results"]
