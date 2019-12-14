@@ -7,7 +7,7 @@ categories = [ "eda"]
 weight = 1
 +++
 
-Visualization of launch angle & launch speed for the five outcomes. 
+Visualization of launch angle & launch speed for the five batted ball outcomes. 
 <!--more-->
 
 ![](/img/eda/BattedBalls.png)

@@ -7,7 +7,7 @@ categories = [ "eda"]
 weight = 2
 +++
 
-Visualization of Spray angle & launch speed for the five outcomes.
+Visualization of Spray angle & launch speed for the five batted ball outcomes.
 <!--more-->
 
 ![](/img/eda/BattedBalls2.png)

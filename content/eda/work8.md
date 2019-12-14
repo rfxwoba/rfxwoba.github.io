@@ -7,7 +7,7 @@ draft = false
 weight = 4
 +++
 
-Visualization of defense variable 9 for the five outcomes. 
+Visualization of right fielder defensive runs saved per 1,000 innings for the five batted ball outcomes. 
 <!--more-->
 
 ![](/img/eda/Def9.png)
