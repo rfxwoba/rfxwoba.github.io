@@ -2,7 +2,7 @@
 draft = false
 image = "img/result/feat_imp.png"
 date = "2019-12-12"
-title = "Feature Importances"
+title = "rfxwOBA Results"
 categories = [ "Results"]
 weight = 2
 +++
