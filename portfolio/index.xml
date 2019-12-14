@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on rfxWOBA</title>
+    <link>rfxwoba.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on rfxWOBA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="rfxwoba.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is baseball?</title>
+      <link>rfxwoba.github.io/portfolio/work1/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;Baseball is a bat-and-ball sport whose modern form originated in the United States in the nineteenth century. It is closely related to bat-and-ball sports of European origin, such as cricket.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rules of baseball</title>
+      <link>rfxwoba.github.io/portfolio/work2/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;The complicated rules of baseball
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Baseball statistics and wOBA</title>
+      <link>rfxwoba.github.io/portfolio/work3/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;Baseball statistics have been recorded and studied for well over one hundred years.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Study aim</title>
+      <link>rfxwoba.github.io/portfolio/work4/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work4/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lauch angle &amp; launch speed</title>
+      <link>rfxwoba.github.io/portfolio/work5/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work5/</guid>
+      <description>&lt;p&gt;Visualization of launch angle &amp;amp; launch speed for the five outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spray angle &amp; launch speed</title>
+      <link>rfxwoba.github.io/portfolio/work6/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work6/</guid>
+      <description>&lt;p&gt;Visualization of Spray angle &amp;amp; launch speed for the five outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>sprint speed</title>
+      <link>rfxwoba.github.io/portfolio/work7/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work7/</guid>
+      <description>&lt;p&gt;Visualization of sprint speed for the five outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Defense variable 9</title>
+      <link>rfxwoba.github.io/portfolio/work8/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work8/</guid>
+      <description>&lt;p&gt;Visualization of defense variable 9 for the five outcomes.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Model</title>
+      <link>rfxwoba.github.io/portfolio/work9/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work9/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rfxwOBA</title>
+      <link>rfxwoba.github.io/portfolio/work10/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work10/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>rfxwoba.github.io/portfolio/work11/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work11/</guid>
+      <description>&lt;p&gt;377,050 samples of baseball batted-event data are collected from TODO.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>rfxwoba.github.io/portfolio/work12/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work12/</guid>
+      <description>&lt;p&gt;Random Forest Prediction of Event Outcomes&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Feature Importances</title>
+      <link>rfxwoba.github.io/portfolio/work13/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work13/</guid>
+      <description>&lt;p&gt;Random Forest Feature Importances&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>rfxwoba.github.io/portfolio/work14/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work14/</guid>
+      <description>&lt;p&gt;Data and results
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Screencast</title>
+      <link>rfxwoba.github.io/portfolio/work15/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>rfxwoba.github.io/portfolio/work15/</guid>
+      <description>&lt;p&gt;Youtube Screencast&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
