@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>rfxwOBA</title>
+<meta name="description" content="Describe your website">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/owl.carousel.css">
+<link rel="stylesheet" href="/css/owl.theme.css">
+
+
+  <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="/img/favicon.png">
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="/">Project</a></h1>
+    
+      <p class="sidebar-p">We are a team of biostatistics students from the biostatistics department, JHSPH</p>
+    
+      <p class="sidebar-p">Into baseball and biostatistics</p>
+    
+      <p class="sidebar-p">We aim to contribute to the baseball community with data analysis</p>
+    
+    <ul class="sidebar-menu">
+      
+        <li><a href="/portfolio/">Home</a></li>
+      
+        <li><a href="/intro/">Introduction</a></li>
+      
+        <li><a href="/eda/">Exploratory data analysis</a></li>
+      
+        <li><a href="/method/">Methods</a></li>
+      
+        <li><a href="/results/">Results</a></li>
+      
+        <li><a href="/discussion/">Discussion</a></li>
+      
+        <li><a href="/contact/">Get in touch</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  <a href="full%20page%20or%20profile%20url%20in%20facebook" data-animate-hover="pulse" class="external facebook">
+    <i class="fa fa-facebook"></i>
+  </a>
+  
+  
+  
+  
+  
+  <a href="mailto:email@example.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  
+  
+  <a href="full%20profile%20url%20in%20github" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+  
+  <a href="full%20profile%20url%20in%20youtube" data-animate-hover="pulse" class="external">
+    <i class="fa fa-youtube"></i>
+  </a>
+  
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+          &copy;2019 Advanced data science course |
+        
+        Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="/">Project</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>rfxwOBA</h1>
+         <p>As stated above, we will use the results of the random forest model to produce our own expectation of <em>wOBA</em>. In order to produce this, we will use a permutation strategy to create a marginal distribution of expected <em>wOBA</em> for each batted ball event. The process will be executed as follows:</p>
+<ul>
+<li>Assign the appropriate wOBA weights to all non-batted ball events (0 for strikeouts and 0.7 for walks and hit by pitch)</li>
+<li>Subset the data to only include the batted ball events and randomly impute any missing predictors from the complete cases</li>
+<li>Randomly shuffle the rows for every predictor except the five predictors which are direct measurements of the batter (handedness, launch speed, launch angle, spray angle and sprint speed)</li>
+<li>Produce predicted probabilities of each outcome for each event by running this modified data set through the random forest</li>
+<li>Linearly combine these predicted probabilities with the corresponding <em>wOBA</em> weights to produce an expected <em>wOBA</em> value for each event</li>
+</ul>
+<p>We will repeat this procedure 1000 times to produce 1000 expected <em>wOBA</em> values for each event. We will consider this to be a sample from the distribution of expected <em>wOBA</em> values for an event given the five &ldquo;batter&rdquo; measurements held constant. Using these values for a given player over a season, we can produce 1000 expected <em>wOBA</em> values for that player in that season. We can visaulize and analyze the distribution of these expected <em>wOBA</em> values, as well as produce a point estimate of expected <em>wOBA</em> by taking the mean of the 1000 values. We will refer to this point estimate as <em>rfxwOBA</em> or &ldquo;random forest expected wOBA&rdquo;.</p>
+<p>We will produce these distributions and metrics in two ways. Once by obtaining estimates of the entire data set (2017-2019 seasons) on a model trained on the complete cases of the entire data set. We will also fit three additional random forest models, with each of them holding out one season's data from the training set. Then we will produce the estimates for the events in a given season using the model that did not include that season's data in the training set.</p>
+<p>In order to assess the validity of this metric for projecting a player's future performance, we will calculate league-wide correlations of a season's <em>rfxwOBA</em> to the following season's <em>wOBA</em>, and comparing it to the correlation of the season's <em>wOBA</em> to the following season's <em>wOBA</em>. A stronger association between <em>rfxwOBA</em> and next season's <em>wOBA</em> than <em>wOBA</em> and next season's <em>wOBA</em> will suggest evidence that <em>rfxwOBA</em> is a better predictor of a player's future performance than actual <em>wOBA</em>. We will also assess the reliability of <em>rfxwOBA</em> by calculating the correlation of league-wide <em>rfxwOBA</em> in a season to itself in the following season.</p>
+<p>The data exported from Baseball Savant also includes a column labeled <code>estimated_woba_using_speedangle</code> for each event. There is not documentation on how these values are calculated. We will also produce expected <em>wOBA</em> values from these values, referred to as &ldquo;baseball savant expected wOBA&rdquo; or <em>bsxwOBA</em>. We will also consider this metric in assessing player projection and metric reliability.</p>
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.cookie.js"> </script>
+<script src="/js/ekko-lightbox.js"></script>
+<script src="/js/jquery.scrollTo.min.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+<script src="/js/imagesloaded.pkgd.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/front.js"></script>
+
+
+
+</body>
+</html>
