@@ -13,6 +13,17 @@
     
     <item>
       <title>Feature Importances</title>
+      <link>https://rfxwoba.github.io/portfolio/work13/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/portfolio/work13/</guid>
+      <description>&lt;p&gt;Random Forest Feature Importances&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Feature Importances</title>
       <link>https://rfxwoba.github.io/results/work13/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -23,12 +34,12 @@
     </item>
     
     <item>
-      <title>Feature Importances</title>
-      <link>https://rfxwoba.github.io/portfolio/work13/</link>
+      <title>Prediction</title>
+      <link>https://rfxwoba.github.io/portfolio/work12/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rfxwoba.github.io/portfolio/work13/</guid>
-      <description>&lt;p&gt;Random Forest Feature Importances&lt;/p&gt;
+      <guid>https://rfxwoba.github.io/portfolio/work12/</guid>
+      <description>&lt;p&gt;Random Forest Prediction of Event Outcomes&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -45,12 +56,23 @@
     </item>
     
     <item>
-      <title>Prediction</title>
-      <link>https://rfxwoba.github.io/portfolio/work12/</link>
+      <title>rfxwOBA Results</title>
+      <link>https://rfxwoba.github.io/portfolio/work16/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rfxwoba.github.io/portfolio/work12/</guid>
-      <description>&lt;p&gt;Random Forest Prediction of Event Outcomes&lt;/p&gt;
+      <guid>https://rfxwoba.github.io/portfolio/work16/</guid>
+      <description>&lt;p&gt;Using a model trained on all complete data&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>rfxwOBA Results</title>
+      <link>https://rfxwoba.github.io/results/work16/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rfxwoba.github.io/results/work16/</guid>
+      <description>&lt;p&gt;Using a model trained on all complete data&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
