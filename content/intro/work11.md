@@ -31,14 +31,14 @@ Predictors of interest are broken into two categories: those that the batter has
     + Pitcher Throwing Handedness: The hand from which the pitcher throws.
     + Movement of Pitch (x, z): The relative drop of the pitch in the x and z dimensions.
     + Plate Location (x, z): The location at which the ball crosses the plate.
-    + Runner Positions: Whether there are runners on $1^{st}$, $2^{nd}$, or $3^{rd}$ bases at the time of the at-bat.
+    + Runner Positions: Whether there are runners on 1st, 2nd, or 3rd bases at the time of the at-bat.
     + Acceleration of Pitch (x/y/z): The acceleration of the pitch.
     + Effective Speed: The effective speed of the pitch, based on where the pitcher releases the ball.
     + Release Spin Rate: The spin rate of the pitch.
     + Release Extension: The extension point at which the pitch is released.
     + Pitch Number: Total number of pitches thrown in current plate appearance.
     + Pitch Name: The label of the pitch type (fastball, curveball, changeup, etc.).
-    + Fielder Defensive Statistics: The defensive rating of each of the $9$ fielders. The statistic used for these variables is [Defensive Runs Saved (DRS)](https://library.fangraphs.com/defense/drs/) which measures how many runs above or below average a fielder contributes to their team. In this model, the DRS for the player at that position in that season was normalized to $1,000$ innings played. The DRS measurements were obtained from [fangraphs.com](https://www.fangraphs.com/leaders.aspx?pos=all&stats=fld&lg=all&qual=y&type=1&season=2019&month=0&season1=2019&ind=0&team=0&rost=0&age=0&filter=&players=0&startdate=&enddate=).
+    + Fielder Defensive Statistics: The defensive rating of each of the 9 fielders. The statistic used for these variables is [Defensive Runs Saved (DRS)](https://library.fangraphs.com/defense/drs/) which measures how many runs above or below average a fielder contributes to their team. In this model, the DRS for the player at that position in that season was normalized to 1,000 innings played. The DRS measurements were obtained from [fangraphs.com](https://www.fangraphs.com/leaders.aspx?pos=all&stats=fld&lg=all&qual=y&type=1&season=2019&month=0&season1=2019&ind=0&team=0&rost=0&age=0&filter=&players=0&startdate=&enddate=).
     + Score of Batter's Team: Score of the team the batter is on.
     + Score of Pitcher's Team: Score of the team the pitcher is on.
     + Infield Fielding Alignment: The label of the infield fielding strategy employed (standard, strategic, shift).
