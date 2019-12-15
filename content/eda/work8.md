@@ -1,7 +1,7 @@
 +++
 image = "img/eda/Def9.png"
 date = "2019-12-12"
-title = "Defense variable 9"
+title = "Right Fielder Defense"
 categories = [ "eda" ]
 draft = false
 weight = 4
