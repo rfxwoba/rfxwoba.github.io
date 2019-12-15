@@ -11,7 +11,7 @@ Using a model trained on all complete data
 
 <!--more-->
 
-The table below displays $10$ players who had at least $100$ plate appearances in consecutive years from the data set with *wOBA*, *rfxwOBA*, and *bsxwOBA* values from one season and the following season.
+The table below displays 10 players who had at least 100 plate appearances in consecutive years from the data set with *wOBA*, *rfxwOBA*, and *bsxwOBA* values from one season and the following season.
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
  <thead>
@@ -142,7 +142,7 @@ The table below displays $10$ players who had at least $100$ plate appearances i
 </table>
 
 
-The following table displays correlation of each metric to the following season's *wOBA* with $95\%$ confidence intervals.
+The following table displays correlation of each metric to the following season's *wOBA* with 95% confidence intervals.
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
  <thead>
@@ -172,7 +172,7 @@ The following table displays correlation of each metric to the following season'
 </table>
 
 
-The following table displays correlation of each metric to itself in the following season with $95\%$ confidence intervals.
+The following table displays correlation of each metric to itself in the following season with 95% confidence intervals.
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
  <thead>
@@ -203,9 +203,9 @@ The following table displays correlation of each metric to itself in the followi
 
 Using models trained with one year held out at a time
 
-We repeated the analysis above, but calculated $rfxWOBA$ for each year in a different way: to calculate $rfxWOBA$ for a given year, we trained the $SPORF$ only on the other two years, out of concern for bias arising from redundant data usage. This procedure left the results nearly identical. (We believe this is due to the fact that year was not included as a predictor, and the probability distributions governing the outcomes and predictors are roughly equal from year to year.)
+We repeated the analysis above, but calculated *rfxWOBA* for each year in a different way: to calculate *rfxWOBA* for a given year, we trained the *SPORF* only on the other two years, out of concern for bias arising from redundant data usage. This procedure left the results nearly identical. (We believe this is due to the fact that year was not included as a predictor, and the probability distributions governing the outcomes and predictors are roughly equal from year to year.)
 
-The table below displays $10$ players who had at least $100$ plate appearances in consecutive years from the data set with *wOBA*, *rfxwOBA*, and *bsxwOBA* values from one season and the following season.
+The table below displays 10 players who had at least 100 plate appearances in consecutive years from the data set with *wOBA*, *rfxwOBA*, and *bsxwOBA* values from one season and the following season.
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
  <thead>
@@ -337,7 +337,7 @@ The table below displays $10$ players who had at least $100$ plate appearances i
 
 
 
-The following table displays correlation of each metric to the following season's *wOBA* with $95\%$ confidence intervals.
+The following table displays correlation of each metric to the following season's *wOBA* with 95% confidence intervals.
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
  <thead>
@@ -367,7 +367,7 @@ The following table displays correlation of each metric to the following season'
 </table>
 
 
-The following table displays correlation of each metric to itself in the following season with $95\%$ confidence intervals.
+The following table displays correlation of each metric to itself in the following season with 95% confidence intervals.
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
  <thead>
