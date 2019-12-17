@@ -1,6 +1,6 @@
  +++
 draft = false
-image = "img/result/Mike_Trout_2019_hold.png"
+image = "img/resources/shiny.png"
 date = "2019-12-12"
 title = "Shniy App Demo"
 categories = [ "Resources"]
