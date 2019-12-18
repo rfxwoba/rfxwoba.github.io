@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Right Fielder Defense</title>
+<title>Shniy App Demo</title>
 <meta name="description" content="A sabermetric for baseball forecasting.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -114,11 +114,16 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Right Fielder Defense</h1>
-         <p>Visualization of right fielder defensive runs saved per 1,000 innings for the five batted ball outcomes.
-</p>
+         <h1>Shniy App Demo</h1>
+         <p>We created two shiny apps to help visualize and search data. Due to large data size, the applications are not currently hosted online, however all code and data necessary to run the applications are available on our <a href="https://github.com/ebridge2/rfxWOBA">github repository</a>. Note that the data is stored on github using <a href="https://git-lfs.github.com/">Git Large File Storage</a>, so installing Git LFS is necessary to obtain the data.</p>
 
-<p><img src="/img/eda/Def9.png" alt="" /></p>
+<p></p>
+
+<p>All of the data necessary for the shiny apps are contained in the <code>./data/shiny</code> directory of the repository.</p>
+
+<p>The first app is found in the repository directory <code>./shiny/PlayerStats</code>, and displays densities of the sample of 1,000 <em>rfxwOBA</em> values generated for a given player in each of the 2017-2019 seasons. It also allows to visualize a plot of the rolling values of <em>wOBA</em>, <em>rfxwOBA</em>, and <em>bsxwOBA</em> over the three seasons. A demo for this application can be found <a href="https://www.youtube.com/watch?v=4_vxycpgTuk&amp;feature=youtu.be">here</a>.</p>
+
+<p>The second app is found in the repository directory <code>./shiny/BattedBall</code>, and uses the <em>SPORF</em> model that held out 2019&rsquo;s season data to make predictions on batted ball events. The app allows the user to randomly select a real play from the 2019 season, or to input custom values of batted ball measurements to generate a prediction. A demo for this application can be found <a href="https://www.youtube.com/watch?v=iB5M5RliKTI">here</a>.</p>
          
       </div>
     </div>
